@@ -1,6 +1,10 @@
 
 > Open this page at [https://bpswarrick.github.io/microbit-basic-calculator/](https://bpswarrick.github.io/microbit-basic-calculator/)
 
+## Tutorial
+To open the tutorial, go to [https://makecode.microbit.org/#tutorial:bpswarrick/microbit-basic-calculator/tutorial](https://makecode.microbit.org/#tutorial:bpswarrick/microbit-basic-calculator/tutorial)
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
