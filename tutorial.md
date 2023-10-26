@@ -33,7 +33,7 @@ This project in particular will utilise two variables, one to keep in memory (ex
 ### Part 1 - Step 1
 First, you will need to create the two variables.
 
-In the ``||variables:Variables||`` toolbox, select "Create new Variable..." and name the first one 'register'.
+In the ``||variables:Variables||`` toolbox, select "Make a Variable..." and name the first one 'register'.
 
 Create a second variable, and name it counter.
 
