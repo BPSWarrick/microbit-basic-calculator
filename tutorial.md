@@ -44,7 +44,7 @@ let counter = 0
 ```
 
 ### Part 1 - Step 2
-You will want a way to enter in a new number. Drag a two ``||input:on button||`` blocks from the ``||input:Input||`` toolbox and place it on the canvas.
+You will want a way to enter in a new number. Drag a ``||input:on button||`` block from the ``||input:Input||`` toolbox and place it on the canvas.
 
 Next, drag in a ``||variables:change||`` block and place it inside the ``||input:on button||`` block.
 
